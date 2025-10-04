@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kansal0920/Certificate-Verifier/main/certificate-verifier-banner.png" alt="Certificate Verifier Banner">
+  <img src="Certificate_Verifier_Banner.jpeg" alt="Certificate Verifier Banner">
 
   <h1><b>Certificate Verifier</b></h1>
 
