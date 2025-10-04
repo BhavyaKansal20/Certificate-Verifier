@@ -141,7 +141,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Mr. Bhavya Kansal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kansal0920/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kansalbhavya27@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#sent?compose=CllgCKCDlbkXQwtFsWHHHsSvSrWjvZMSqJjTBJdrBWcZRtMbHVfqKXXwHlpKnWVcQhWGvQscfNV)
 
 Project Link: [https://github.com/Kansal0920/Certificate-Verifier](https://github.com/Kansal0920/Certificate-Verifier)
 
